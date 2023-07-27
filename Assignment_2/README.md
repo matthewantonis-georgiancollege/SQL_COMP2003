@@ -2,10 +2,13 @@
 
 ## Purpose: 
 - This SQL project was an individual endeavor aimed at scripting solutions to address 11 objectives.
-- All bullet points will be answers to the question
+- Included:
+  - Text format or file (see attached .sql)
+  - Screenshot of the results in application
+  - Comments that I made regarding the questions or solution
 
 ## Notes: 
-- Created in mySQL.
+- Created in mySQL Workbench.
 
 ### Assignment Due Date: June 1st, 2023
 ### Mark Received: 100%
