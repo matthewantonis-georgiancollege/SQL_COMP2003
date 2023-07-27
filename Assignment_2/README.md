@@ -15,7 +15,7 @@
 1. Make a database and name it ‘Assignment2’ and add the data from Customers.sql to your Database.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/d973f670-5612-4ae0-be88-95883fb5222f">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/a104a562-5245-4375-8735-1feecf82de46">
 <p/>
 
 2. Use a single line SQL command to return the structure of the table from Q1. In your report, tell me what command you would use to generate a list of all the tables in your database.
