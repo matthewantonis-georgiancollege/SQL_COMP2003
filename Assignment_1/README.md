@@ -62,19 +62,19 @@
 6.	Select all data for every hour of data where the temperature (temp) was greater than 26.5. Provide an additional comment in your SQL script that states the number of rows returned.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/b732e272-3f9b-4822-8a87-6a963472c363">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/61aa9f1d-8d35-414e-a3b6-c4916611208e">
 <p/>
 
 7.	Select the date_time, temp, pressure_kPA and wind_spd_kmh for every hour of data where the temperature was 24 or less and the air pressure (pressure_kPa) was greater than 96.83. Provide an additional comment in your SQL script that states the number of rows returned.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/8c7da5e0-825f-4a55-a5b9-b18ba759bb74">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/45689daa-bea4-4fe2-a2cb-4a71347394ce">
 <p/>
-
+  
 8.	Select the date and time (date_time), temperature (temp) and temperature flag (temp_flag) columns for every hour where temperature data has been marked as missing using an ‘M’ value in the temp_flag column. In the report, record the date and time. Hint: remember that single quotes are required for text values.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/b2fc5f03-19f8-42b9-99b6-d9c156eb75c6">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/ff8e5af9-4698-454a-a98e-04d76a5be096">
 <p/>
    
 9.	Return the same results as in Question 8, except construct the query to return both ‘M’ and ‘Missing’ values.
