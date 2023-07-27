@@ -78,19 +78,19 @@ Note: There are a number of ways of doing this, please use LIKE.
 <img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/5f21ea5a-f13f-4cdd-b80a-a3dae4bfde24">
 <p/>
 
-10.	Count (SELECT COUNT) the number of hours contained in this dataset, where the dew point temperature (dew_pt) is greater than one.
+10. Count (SELECT COUNT) the number of hours contained in this dataset, where the dew point temperature (dew_pt) is greater than one.
 
 <p align="center">
-<img width="600" src="">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/2d24d6ba-f8c9-4089-aae6-5a2f5e755d19">
 <p/>
 
-11.	Count the number of hours that the wind was blowing (wind_spd_kmh is greater than 0) and from a direction ranging between north and east (wind_dir_10d is between 0 and 9).
+11. Count the number of hours that the wind was blowing (wind_spd_kmh is greater than 0) and from a direction ranging between north and east (wind_dir_10d is between 0 and 9).
 
 <p align="center">
-<img width="600" src="">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/b6c4c62c-1b6d-402a-be54-23f18b23ecb0">
 <p/>
 
-12.	In Barrie, what percent of the time are the conditions listed in Q11 true?
+12. In Barrie, what percent of the time are the conditions listed in Q11 true?
 
   - Given that the count we obtained in Q11 is 7585, we can run another query for the total count in barrie_weather in any condition, which returns 15336. We then calculate (7585/15336) * 100 and get 49.458%.
   - Thus, the conditions in Q11 are true approximately 49.5% of the time.
@@ -99,19 +99,19 @@ Note: There are a number of ways of doing this, please use LIKE.
 <img width="600" src="">
 <p/>
 
-13.	Select all data for every hour of data where either the temperature (temp) is below freezing, or wind chill (wind_chill) was below zero. Additionally, the wind speed flag (wind_spd_flag) must indicate that there were no problems with the wind speed instrument (i.e. no M or Missing values present) BTW: an anemometer is an instrument that measures wind speed. 
+13. Select all data for every hour of data where either the temperature (temp) is below freezing, or wind chill (wind_chill) was below zero. Additionally, the wind speed flag (wind_spd_flag) must indicate that there were no problems with the wind speed instrument (i.e. no M or Missing values present) BTW: an anemometer is an instrument that measures wind speed. 
 
 <p align="center">
 <img width="600" src="">
 <p/>
 
-14.	Fix the M vs Missing problem in the temperature flag field by using UPDATE to change any instances of Missing values to just plain M
+14. Fix the M vs Missing problem in the temperature flag field by using UPDATE to change any instances of Missing values to just plain M
 
 <p align="center">
 <img width="600" src="">
 <p/>
 
-15.	Use an update statement to change all ' ' values in the temp_flag column to NULL (no quotes, just the letters N-U-L-L) this will change. Hint: The values should end up looking like those in the humidex (hmdx) column. FYI: The best way to store null data is using the NULL value. Look to the humidex (hmdx) column for an example of this being implemented properly.
+15. Use an update statement to change all ' ' values in the temp_flag column to NULL (no quotes, just the letters N-U-L-L) this will change. Hint: The values should end up looking like those in the humidex (hmdx) column. FYI: The best way to store null data is using the NULL value. Look to the humidex (hmdx) column for an example of this being implemented properly.
 
 <p align="center">
 <img width="600" src="">
