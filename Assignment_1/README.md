@@ -36,8 +36,12 @@
 <img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/023da464-13ff-41aa-8a26-991a6393f667">
 <p/>
 
-5. Explain how the provided CREATE TABLE statement could be improved. Please focus on the data types and parameters for this discussion.
-   
+4. Explain how the provided CREATE TABLE statement could be improved. Please focus on the data types and parameters for this discussion.
+
+<p align="center">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/3ac5685a-c7f4-46fc-9650-0f28f507dd34">
+<p/>
+
   - If we look at the insert statements we can see that the numeric and text values are rather low compared to the total byte size of int, double, and text.
   - The data types used in the create table statement can be converted into smaller data types in order to reduce memory use and improve performance. Since the create table statement only uses int, double, or text data types, we could instead replace them with tinyInt/smallInt, float, and varchar data types respectively.
   - For example, the text data type uses 65,535 bytes, but none of the text data columns ever use that many bytes. If we use varchar, then we can set the limit from anywhere between 0 to 65,535 bytes and improve the overall performance of our database.
