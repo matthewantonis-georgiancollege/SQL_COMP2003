@@ -11,10 +11,17 @@
 
 2. Instruct MySQL Server to use the database you just created.
 
-   
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/5ce4ebc3-91e3-4a74-b0c9-fd3df2736ebb">
+
 3. In a separate SQL tab, open the barrie_weather.sql file provided. Under question 3, copy its contents into your assignment1 script, then run the commands to create the table (also called barrie_weather, and will be used to answer following questions) and then populate it with data using the provided insert statements.
 
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/feeca5b6-353f-4720-b27e-3b3644ce2b9f">
 
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/79d6d54e-b9f8-47cf-bd41-f40dec9b3bca)">
+
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/f4f2153b-9d74-409c-b524-0cd5c1682907">
+
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/023da464-13ff-41aa-8a26-991a6393f667">
 
 5. Explain how the provided CREATE TABLE statement could be improved. Please focus on the data types and parameters for this discussion.
    
