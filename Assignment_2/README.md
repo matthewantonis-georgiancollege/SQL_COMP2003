@@ -9,6 +9,10 @@
 
 ## Notes: 
 - Created in mySQL Workbench.
+- Attached are:
+  - Customers.sql which contains the data used for this assignment
+  - MatthewAntonis_Assignment2.sql contains the script I completed
+  - Question11.csv which contains the excel data used to create the pie graph 
 
 ### Assignment Due Date: June 1st, 2023
 ### Mark Received: 100%
