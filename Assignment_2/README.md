@@ -21,10 +21,13 @@
 2. Use a single line SQL command to return the structure of the table from Q1. In your report, tell me what command you would use to generate a list of all the tables in your database.
 
 <p align="center">
-<img width="600" src="">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/59fad9df-3c46-4e12-bf05-65bbe36201ce">
 <p/>
 
-
+<p align="center">
+<img width="600" src="">
+<p/>
+  
 3. Add a column named bonus to your table. Place it after surname. Enable the users to store bonuses with values such as: 10,999.99 or 2.00 by choosing the proper data type for bonus. In your report, mention the data type you chose and another that you considered but chose not to use.
 
 <p align="center">
