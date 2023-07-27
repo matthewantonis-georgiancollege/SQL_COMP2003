@@ -111,7 +111,7 @@
 
 **Results:** 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/ab5884af-3e92-4c4f-9bdd-0d9acb2412e7">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/834d29f8-d21c-4536-812b-492d43fea5d4">
 <p/>
 
 **Comments:**
@@ -122,7 +122,7 @@
 
 **Results:** 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/bd5f68a5-58cb-4010-a7fd-4c6c4b5827e5">
+<img width="600" src="(https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/929fffa7-37f9-438d-a650-4efdf7dd6c95">
 <p/>
 
 **Comments:**
@@ -133,7 +133,7 @@
 
 **Results:** 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/dd241605-2a72-4547-bb38-a1686f656246">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/7718ea73-cb7d-4d8c-b45b-73d98d56e62b">
 <p/>
 
 **Comments:**
@@ -144,7 +144,7 @@
 
 **Results:** 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/aac8e793-db44-483d-b2da-68f2f466fbb2">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/bb3c4cd5-e67f-4a24-9135-795186177ae0">
 <p/>
 
 **Comments:**
