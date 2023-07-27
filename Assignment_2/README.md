@@ -14,8 +14,10 @@
   - MatthewAntonis_Assignment2.sql contains the script I completed
   - Question11.csv which contains the excel data used to create the pie graph 
 
-### Assignment Due Date: June 1st, 2023
-### Mark Received: 100%
+### Assignment Due Date: June 16th, 2023
+### Mark Received: 90%
+- Instructor Feedback:
+  - Formatting could have been better
 
 ## Objectives: 
 
