@@ -2,6 +2,7 @@
 
 ## Purpose: 
 - This SQL project was a collaborative endeavor aimed at scripting solutions to address the following set of objectives.
+- All bullet points will be answers to the question
 
 ### Objectives: 
 
