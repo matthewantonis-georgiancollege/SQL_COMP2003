@@ -1,10 +1,16 @@
 # Assignment 1 
 
 ## Purpose: 
-- This SQL project was a collaborative endeavor aimed at scripting solutions to address the following set of objectives.
+- This SQL project was a collaborative endeavor aimed at scripting solutions to address 15 set of objectives.
 - All bullet points will be answers to the question
 
-### Objectives: 
+## Notes: 
+- Created in mySQL.
+
+### Assignment Due Date: June 1st, 2023
+### Mark Received: 100%
+
+## Objectives: 
 
 1. Create a database for this assignment.
 
@@ -116,4 +122,3 @@ Note: There are a number of ways of doing this, please use LIKE.
 <p align="center">
 <img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/4692f21f-7a3e-480d-9581-2ce23f2a86e2">
 <p/>
-
