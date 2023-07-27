@@ -14,17 +14,17 @@
 
 1. Make a database and name it ‘Assignment2’ and add the data from Customers.sql to your Database.
 
-Script:
+**Script:**
   - CREATE DATABASE Assignment2;
   - USE Assignment2; 
   - SELECT * FROM customers;
 
-Results:
+**Results:**
 <p align="center">
 <img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/4e42894e-88c0-46a3-bed8-d326a58056fc">
 <p/>
 
-Comments: 
+**Comments:** 
 - Used commands “CREATE DATABASE” and “USE” first
 - Copied over Customer.sql to mysql and ran the script
 - Once the table was added I used the "SELECT * FROM” Command
