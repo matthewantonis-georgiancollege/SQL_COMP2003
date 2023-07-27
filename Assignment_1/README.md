@@ -47,8 +47,6 @@
   - For example, the text data type uses 65,535 bytes, but none of the text data columns ever use that many bytes. If we use varchar, then we can set the limit from anywhere between 0 to 65,535 bytes and improve the overall performance of our database.
   - Additionally, depending on how we want to use our data, we could change the data type values of our date and time related columns to the date, datetime, or timestamp data values in order to preserve more space. While this could make querying more difficult depending on how we intend to use the data, it could also preserve additional space by further lowering the used memory space and reducing the amount of columns in our table.
 
-
-
 5. The provided INSERT statements in barrie_weather were generated automatically and load data very slowly because of the way that the script’s commands have been structured. What is it about the structure of this script that causes the script to run slowly? In the report only, explain how you could restructure the commands if you were tasked with inserting the same data into barrie_weather.
    
   - The cause of our insert statements running slowly is due to the repetitiveness of the way it is structured; it runs thousands of separate “insert into” statements as opposed to condensing them into one or fewer statements by using an extended insert statement. 
@@ -57,11 +55,15 @@
 
 6.	Select all data for every hour of data where the temperature (temp) was greater than 26.5. Provide an additional comment in your SQL script that states the number of rows returned.
 
-
+<p align="center">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/b732e272-3f9b-4822-8a87-6a963472c363">
+<p/>
 
 7.	Select the date_time, temp, pressure_kPA and wind_spd_kmh for every hour of data where the temperature was 24 or less and the air pressure (pressure_kPa) was greater than 96.83. Provide an additional comment in your SQL script that states the number of rows returned.
 
-
+<p align="center">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/8c7da5e0-825f-4a55-a5b9-b18ba759bb74">
+<p/>
 
 8.	Select the date and time (date_time), temperature (temp) and temperature flag (temp_flag) columns for every hour where temperature data has been marked as missing using an ‘M’ value in the temp_flag column. In the report, record the date and time. Hint: remember that single quotes are required for text values.
 
