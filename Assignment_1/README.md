@@ -81,19 +81,19 @@
 Note: There are a number of ways of doing this, please use LIKE.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/5f21ea5a-f13f-4cdd-b80a-a3dae4bfde24">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/866caa42-394a-416c-8ee1-ba6f7ec2f271">
 <p/>
 
 10. Count (SELECT COUNT) the number of hours contained in this dataset, where the dew point temperature (dew_pt) is greater than one.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/2d24d6ba-f8c9-4089-aae6-5a2f5e755d19">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/d3beb1aa-1af4-450a-95d4-e536e6296317">
 <p/>
 
 11. Count the number of hours that the wind was blowing (wind_spd_kmh is greater than 0) and from a direction ranging between north and east (wind_dir_10d is between 0 and 9).
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/b6c4c62c-1b6d-402a-be54-23f18b23ecb0">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/4414c2f1-7897-4222-99a3-4b0c5aafc41d">
 <p/>
 
 12. In Barrie, what percent of the time are the conditions listed in Q11 true?
@@ -102,23 +102,23 @@ Note: There are a number of ways of doing this, please use LIKE.
   - Thus, the conditions in Q11 are true approximately 49.5% of the time.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/a1943879-6d1e-448e-a8fa-03bdc11046a9">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/c2ae3208-35a5-42e6-8b4a-9067e119e99f">
 <p/>
 
 13. Select all data for every hour of data where either the temperature (temp) is below freezing, or wind chill (wind_chill) was below zero. Additionally, the wind speed flag (wind_spd_flag) must indicate that there were no problems with the wind speed instrument (i.e. no M or Missing values present) BTW: an anemometer is an instrument that measures wind speed. 
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/8837e04f-8b6b-47d7-b8a2-3bbbda75e608">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/420cdf10-b6fc-45e9-a735-234db7411e26">
 <p/>
 
 14. Fix the M vs Missing problem in the temperature flag field by using UPDATE to change any instances of Missing values to just plain M
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/9bbf3541-291a-4c4d-bc21-37a23fd711c1">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/51324b69-09bb-44c4-9d73-01779aceee03">
 <p/>
 
 15. Use an update statement to change all ' ' values in the temp_flag column to NULL (no quotes, just the letters N-U-L-L) this will change. Hint: The values should end up looking like those in the humidex (hmdx) column. FYI: The best way to store null data is using the NULL value. Look to the humidex (hmdx) column for an example of this being implemented properly.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/4692f21f-7a3e-480d-9581-2ce23f2a86e2">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/cbb42e81-fe30-47b1-b6bf-eecb929cef61">
 <p/>
