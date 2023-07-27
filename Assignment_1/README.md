@@ -15,9 +15,9 @@
 1. Create a database for this assignment.
 
 <p align="center">
-<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/eeb21937-0bfb-4f2f-bffa-677bc511f6bc">
+<img width="600" src="https://github.com/matthewantonis-georgiancollege/SQL_COMP2003/assets/122380719/92a9eddc-9610-4fec-9cac-5ac383179aae">
 <p/>
-   
+
 2. Instruct MySQL Server to use the database you just created.
 
 <p align="center">
